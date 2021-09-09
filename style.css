@@ -50,7 +50,6 @@ header button{
 background: #68A4FC;
 color:#fff;
 } */
-
 .about-me{
     margin: 50px 0px ;
 }
@@ -59,7 +58,7 @@ color:#fff;
     width: 415px;
     border: 5px solid #fafafa;
 } */
-.about-me .text h6{
+/*.about-me .text h6{
 color: gray;
 position: relative;
 }
@@ -77,7 +76,7 @@ position: relative;
     font-size: 20px;
     font-weight: 400;
 }
-
+*/
 .form-control2{
     display: block;
     width: 100%;
