@@ -1,66 +1,7 @@
 
-img{
-    max-width: 100%;
+.card-div .card  p{
+    font-size: 18px;
 }
-/* header{
-    background: #E3F2FD;
-    padding: 10px 0px;
-} */
-/* header img{
-    width: 46px;
-} */
-
-/* header .logo h1{
-    text-align:left;
-    font-size: 1.5rem;
-    line-height: 1.8;
-    color:#68A4FC;
-}
-
-
-header nav ul{
-    padding: 0;
-    margin: 0;
-}
-header nav ul li{
-    display: inline-block;
-    margin-left: -4px;
-}
-header nav ul li a{
-    display: inline-block;
-    padding: 10px 15px;
-    text-decoration: none;
-    font-size: 20px;
-}
-
-header input{
-    border: none;
-    padding: 5px 4px;
-    border-radius: 5px;
-}
-header button{
-    background:transparent;
-    border: 1px solid #68A4FC;
-    color: #68A4FC;
-    border-radius: 5px;
-    padding: 3px 5px;
-} */
-
-/* header button:hover{
-background: #68A4FC;
-color:#fff;
-} */
-.about-me{
-    margin: 50px 0px ;
-}
-.about-me .image{}
-/* .about-me .image img{
-    width: 415px;
-    border: 5px solid #fafafa;
-} */
-
-
-
 .carousel-caption {
     position: absolute;
     right: 15%;
@@ -83,3 +24,4 @@ color:#fff;
     color: rgba(0,0,0,.9);
     font-size: 1.8rem;
 }
+
